@@ -1,1 +1,1 @@
-![Theme Image](images/theme.jpg)
+![Theme Image](theme.jpg)
